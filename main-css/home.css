@@ -1,0 +1,63 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHJvamVjdCUyMG1hbmFnZW1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+  .header {
+   
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .para-1 {
+    color: white;
+    font-size: 25px;
+  }
+
+.creator-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+
+}
+  .profile-pic {
+    width: 200px;
+    border-radius: 10px;
+  }
+.creator-info p {
+    color: white;
+    text-align: center;
+    font-size: 23px;
+}
+.creator-right {
+    margin-left: 35px;
+    padding-right: 20px;
+}
+.creator-info-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 10px;
+
+    padding: 20px 20px 15px;
+}
+
+.next {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+}
+.next-page {
+    color: white;
+    font-size: 35px;
+    border: 1px solid white;
+    cursor: pointer;;
+}
